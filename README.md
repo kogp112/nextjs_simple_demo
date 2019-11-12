@@ -3,7 +3,7 @@
 This is personal training for understanding basic Next.js.
 
 
-## development
+## develop
 
 ```
 mkdir myproject
